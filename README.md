@@ -1,2 +1,5 @@
 # demo-two
-updated version
+
+
+Powerful system -__- Linux 
+windows X Linux X macos
