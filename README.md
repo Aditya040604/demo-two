@@ -1,6 +1,7 @@
 # demo-two
 
 
-Powerful system -__- Linux 
-Operating system
-windows X Linux X macos
+Arch linux
+lubuntu
+fedora
+ubuntu
